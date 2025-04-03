@@ -40,31 +40,31 @@ export default function HomePage() {
     {
       name: "Solvit Ferrum",
       tags: ["#втома", "#залізо", "#робота"],
-      image: "/images/ferrum.png",
+      image: "/ferrum.png",
       description: "Повертає енергію, коли організм каже 'досить'. Ідеальний для тих, хто втомлюється від самої думки про зум."
     },
     {
       name: "Stressnol",
       tags: ["#стрес", "#кава", "#нерви"],
-      image: "/images/stressnol.png",
+      image: "/stressnol.png",
       description: "Мʼякий адаптоген, що не притуплює, а підтримує. Створений для міських амазонок."
     },
     {
       name: "МагнеФол",
       tags: ["#сон", "#вагітність", "#спокій"],
-      image: "/images/magnekvin-f.png",
+      image: "/magnekvin-f.png",
       description: "Хелатна форма магнію + B6 + фолат. Для глибокого сну та ще глибшого видиху."
     },
     {
       name: "Артифар",
       tags: ["#печінка", "#важкість", "#жовч"],
-      image: "/images/artifar.png",
+      image: "/artifar.png",
       description: "Твоя печінка скаже дякую. А ти просто знову зможеш зʼїсти щось смачне без відчуття каменя."
     },
     {
       name: "Гепанекс",
       tags: ["#травлення", "#детокс", "#комбо"],
-      image: "/images/hepanex.png",
+      image: "/hepanex.png",
       description: "Працює в парі з Артифаром як добрий друг після важкого застілля. Проти важкості й токсинів."
     }
   ];
