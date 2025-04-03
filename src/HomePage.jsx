@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import { Input } from "@/components/ui/input";
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
-import { Accordion, AccordionItem } from "@/components/ui/accordion";
+import { Input } from "./components/ui/input";
+import { Button } from "./components/ui/button";
+import { Card, CardContent } from "./components/ui/card";
+import { Accordion, AccordionItem } from "./components/ui/accordion";
 
 export default function HomePage() {
   const [email, setEmail] = useState("");
